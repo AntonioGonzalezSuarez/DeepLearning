@@ -1,0 +1,10 @@
+jupyterlab
+matplotlib
+opencv-python
+pandas
+openpyxl
+pillow
+scikit-learn
+tqdm
+tensorflow
+tensorboard
